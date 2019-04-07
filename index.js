@@ -16,5 +16,5 @@ function appendKitten(name) {
   return moreCats
 }
 function appendKitten(name) {
-  const moreCats = ["Broom", ...kittens,]
+  const moreCats = ["Broom", ...kittens]
   return moreCats
