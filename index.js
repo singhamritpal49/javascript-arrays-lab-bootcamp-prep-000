@@ -12,6 +12,5 @@ function destructivelyRemoveFirstKitten(name) {
   kittens.shift()
 }
 function appendKitten(name) {
-  var kitten = ["Milo", "Otis", "Garfield"]
-  const moreCats = ["Broom",...kitten]
+  const moreCats = ["Broom",...kittens]
 }
