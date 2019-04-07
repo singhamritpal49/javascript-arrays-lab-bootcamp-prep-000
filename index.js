@@ -3,7 +3,7 @@ function destructivelyAppendKitten(name) {
   kittens.push("Ralph")
 }
 function destructivelyAppendKitten(name) {
-  kittens.unshift("Meme")
+  kittens.unshift("Bob")
 }
 
 
