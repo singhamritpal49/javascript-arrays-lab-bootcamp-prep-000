@@ -15,7 +15,4 @@ function appendKitten(name) {
   const moreCats = [...kittens,"Broom"]
   return moreCats
 }
-function appendKitten(name) {
-  const moreCats = ["Broom", ...kittens]
-  return moreCats
-}
+
